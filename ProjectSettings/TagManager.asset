@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Ladder
+  - Enemy
+  - Ground
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Ladders
+  - Jump
+  - Background
+  - Enemies
+  - Traps
+  - Arrows
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3087946303
+    locked: 0
+  - name: Water
+    uniqueID: 719605253
+    locked: 0
+  - name: Platforms
+    uniqueID: 2689603625
+    locked: 0
+  - name: Ladders
+    uniqueID: 433841391
+    locked: 0
+  - name: Jump
+    uniqueID: 3024701787
+    locked: 0
+  - name: Traps
+    uniqueID: 138443411
+    locked: 0
+  - name: Interactables
+    uniqueID: 785810267
+    locked: 0
+  - name: Enemies
+    uniqueID: 932215585
+    locked: 0
+  - name: Player
+    uniqueID: 1400561625
+    locked: 0

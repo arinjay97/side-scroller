@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 121b96de2a89248bbb495b975519bc32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSFX: {instanceID: 0}
+  - availableLives: {instanceID: 0}
+  - currentScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
